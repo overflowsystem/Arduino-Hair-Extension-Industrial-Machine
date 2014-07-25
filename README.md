@@ -3,7 +3,7 @@ Arduino-Hair-Extension-Industrial-Machine
 
 The Hair Extension Industrial Machine is based on a adafruit project.
 
-![alt tag](http://80.240.135.37/marcoferraioli.com/public_html/images/port_2.jpg)
+![alt tag](http://80.240.135.37/marcoferraioli.com/public_html/images/rsz_port_2.jpg)
 
 Precisely this http://bit.ly/1njPfVq
 
